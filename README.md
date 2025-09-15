@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Aijo]
+# 👋 Hi, I'm Aijo
 
 **🌟 About Me**
 I'm a passionate full-stack developer on the path to becoming a Machine Learning Engineer. I believe in learning through building - exploring diverse domains from mobile apps to trading systems while developing the statistical and technical foundation needed for ML. My journey is driven by curiosity, continuous learning, and solving real-world problems with code.
