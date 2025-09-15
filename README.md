@@ -10,13 +10,9 @@ Frontend:      React, React Native, HTML/CSS
 Backend:       Node.js, Supabase, PostgreSQL
 ML/Data:       NumPy, Pandas, Statistical Analysis
 Mobile:        React Native (iOS & Android)
-Tools:         Git, Docker, Claude Code, Serena
-Cloud:         Supabase, CI/CD pipelines
+Tools:         Git, Docker, Claude Code
+Cloud:         Supabase, Firebase, CI/CD pipelines
 ```
-
-**📊 GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aijo24&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aijo24&layout=compact&theme=radical)
 
 **💼 Featured Projects**
 * **🤖 Algorithmic Trading Systems** - Statistical validation frameworks and backtesting for quantitative strategies
