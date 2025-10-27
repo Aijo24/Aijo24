@@ -7,7 +7,7 @@ I'm a passionate full-stack developer on the path to becoming a Machine Learning
 ```
 Languages:     Python, TypeScript, JavaScript, SQL
 Frontend:      React, React Native, HTML/CSS
-Backend:       Node.js, Supabase, PostgreSQL
+Backend:       Node.js, Python, PostgreSQL
 ML/Data:       NumPy, Pandas, Statistical Analysis
 Mobile:        React Native (iOS & Android)
 Tools:         Git, Docker, Claude Code
